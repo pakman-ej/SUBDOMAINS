@@ -1,3 +1,7 @@
+for linux 
+sudo chmod +x jamesbond.sh
+after your in folder OF ZIP extracted
+
 ✅ Essential Tools to Enumerate Subdomains
 🔧 1. Subfinder
 Fast passive subdomain enumerator
