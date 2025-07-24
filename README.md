@@ -1,4 +1,5 @@
 https://github.com/pakman-ej/SUBDOMAINS/blob/main/screen%20shot.jpg
+
 for linux 
 sudo chmod +x jamesbond.sh
 after your in folder OF ZIP extracted
